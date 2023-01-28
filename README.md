@@ -1,1 +1,1 @@
-# digitsly-clocked
+# digitaly-clocked
